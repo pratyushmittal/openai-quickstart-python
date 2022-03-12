@@ -15,4 +15,5 @@ build/
 
 .DS_STORE
 
-.env
+.venv
+.vscode
